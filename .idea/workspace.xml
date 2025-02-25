@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc4e78b4-050b-4a00-9399-e1f13ce0a2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gpt_bot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fc4e78b4-050b-4a00-9399-e1f13ce0a2be" name="Changes" comment="Test adding" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,8 +39,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\gpt_bot\.venv" />
       <recent name="D:\Projects\gpt_bot" />
+      <recent name="D:\Projects\gpt_bot\.venv" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -66,6 +59,27 @@
       <option name="presentableId" value="Default" />
       <updated>1740505585502</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test adding">
+      <option name="closed" value="true" />
+      <created>1740506463566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740506463566</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test adding">
+      <option name="closed" value="true" />
+      <created>1740506573445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740506573445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test adding" />
   </component>
 </project>
