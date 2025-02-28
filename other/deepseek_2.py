@@ -36,7 +36,7 @@ payload = json.dumps({
 headers = {
   'Content-Type': 'application/json',
   'Accept': 'application/json',
-  'Authorization': 'Bearer sk-bacfbda7b010408fa39229f65d2c9156'
+  'Authorization': 'Bearer '
 }
 
 response = requests.request("POST", url, headers=headers, data=payload)

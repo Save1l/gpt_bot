@@ -33,7 +33,7 @@ def get_response(prompt, api_key):
 
 
 def main():
-    api_key = "sk-bacfbda7b010408fa39229f65d2c9156"
+    api_key = ""
 
     while True:
         prompt = input("Введите ваш вопрос или сообщение: ")
