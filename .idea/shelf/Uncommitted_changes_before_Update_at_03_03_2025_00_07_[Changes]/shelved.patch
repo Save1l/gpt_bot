@@ -1,0 +1,11 @@
+Index: docs.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs.py b/docs.py
+--- a/docs.py	(revision b6020d6088f5996ae8dca7a8fa2038db77c2b7ab)
++++ b/docs.py	(date 1740949592071)
+@@ -1,0 +1,1 @@
++gpt_api = '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'
+\ No newline at end of file

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc4e78b4-050b-4a00-9399-e1f13ce0a2be" name="Changes" comment="start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/API_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/API_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/training" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -47,6 +48,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\gpt_bot\html" />
       <recent name="D:\Projects\gpt_bot\other" />
       <recent name="D:\Projects\gpt_bot" />
       <recent name="D:\Projects\gpt_bot\.venv" />
@@ -180,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740743837928</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="start">
+      <option name="closed" value="true" />
+      <created>1740949599675</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740949599675</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
