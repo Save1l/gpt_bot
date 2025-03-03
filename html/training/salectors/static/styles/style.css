@@ -1,133 +1,23 @@
-body {
-    margin: 0;
-    padding: 0;
+/* 
+по тегу 1
+по классу 10
+по id 100
+стиль в самом теге 1000
+*/
+
+.main.border-div {
+    background-color: rgb(92, 109, 109);
+    border-style: dotted;
 }
 
-span {
-    font-style: italic;
+.main {
+    background-color: aqua;
 }
 
-/* Контент */
-
-.text-page {
-    padding-left: 10px;
+.border-div{
+    border-style: solid !important;
 }
 
-.list-conteiner {
-
-    display: inline-block;
-    border-style: solid;
-    border-width: 0.5px;
-    padding-right: 20px;
-    
-}
-
-.list-conteiner>p {
-    text-align: center;
-    margin-bottom: 0;
-    margin-top: 10px;
-    font-weight: bold;
-}
-
-.list-conteiner>ol {
-    margin-top: 10px;
-
-}
-
-
-.img-conteiner {
-    float: right;
-    padding: 5px;
-    border-style: solid;
-    border-width: 0.5px;
-    margin-left: 20px;
-    
-}
-
-.img-conteiner>div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    
-}
-
-.logo-html {
-    max-width: 80px;
-}
-
-/* Верхняя нав. панель */
-
-.nav-conteiner {
-    display: flex;
-    justify-content: space-between;
-    background-color: rgb(149, 225, 255);
-}
-
-.nav-conteiner>nav>ul {
-    display: flex;
-    list-style: none;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-}
-
-.nav-conteiner>nav>ul>input {
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-.nav-conteiner>nav>ul>li>a {
-    display: block;
-    padding: 10px;
-    border-style: solid;
-    border-width: 0.5px;
-}
-
-
-@media (max-width: 900px) {
-    .nav-conteiner {
-        flex-direction: column;
-    }
-}
-
-/* Левая нав. панель */
-
-.page {
-    display:flex;
-    justify-content: center;
-}
-
-.header {
-    width: 10%;
-
-}
-
-.section {
-    width: 86%;
-
-}
-
-.header {
-    
-    background-color:rgb(245, 245, 245);
-    border-right-width: 1px;
-    border-right-style: solid;
-    border-right-color: rgba(55, 198, 255, 0.575);
-
-}
-
-.header>ol {
-    list-style: none;
-    border-bottom-style: solid;
-    border-bottom-width: 0.5px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-}
-
-.header>div {
-    width: 100%;
-}
-
-.header>div>img {
-    width: 100%;
+.main p {
+    font-size: 35px;
 }
